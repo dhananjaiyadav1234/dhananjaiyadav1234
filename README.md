@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhananjai%20Yadav&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%E2%86%92%20AI%20Engineering%20%E2%86%92%20Systems%20%7C%20B.Tech%20SPE%20%40%20Kalvium%20%C3%97%20Alliance&descAlignY=58&descAlign=50&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2D333B,100:6E7681&height=180&section=header&text=Dhananjai%20Yadav&fontSize=58&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%E2%86%92%20AI%20Engineering%20%E2%86%92%20Systems%20%7C%20B.Tech%20SPE%20%40%20Kalvium%20%C3%97%20Alliance&descAlignY=58&descAlign=50&descSize=17" width="100%"/>
 
 </div>
 
@@ -280,7 +280,7 @@ agent execution ──▶ structured trace (Pydantic trace contract)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E7681,50:2D333B,100:0D1117&height=100&section=footer" width="100%"/>
 
 **Open to AI engineering & full-stack internships, open-source collaborations and hard infrastructure problems.**
 
